@@ -2,10 +2,10 @@
 <a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff9933&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Some Demo Image" src="WhatsApp Image 2020-10-24 at 3.13.42 AM.jpeg"></a>
+<img width="40%" src="WhatsApp Image 2020-10-24 at 3.13.42 AM.jpeg"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Some Demo Image" src="WhatsApp Image 2020-10-24 at 3.13.43 AM.jpeg"></a>
+<img width="51%" src="WhatsApp Image 2020-10-24 at 3.13.43 AM.jpeg"></a>
 </p>
 
 ## Installation :
