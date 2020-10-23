@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <img width="40%" src="WhatsApp Image 2020-10-24 at 3.13.42 AM.jpeg"/>
-<img width="51%" src="WhatsApp Image 2020-10-24 at 3.13.43 AM.jpeg"/>
+<img width="40%" src="WhatsApp Image 2020-10-24 at 3.13.43 AM.jpeg"/>
 </p>
 
 ## Installation :
