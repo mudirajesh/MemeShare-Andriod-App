@@ -9,3 +9,7 @@
 
 ## Credits :
 #### >Instagram Id (https://www.instagram.com/mudi_rajesh/?hl=en)
+
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-DECODER-green?style=for-the-badge&logo=github)](https://github.com/mudirajesh)
+[![Instagram](https://img.shields.io/badge/IG-%40MUDI_RAJESH-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mudi_rajesh/?hl=en)
